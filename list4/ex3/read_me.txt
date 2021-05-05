@@ -1,0 +1,1 @@
+Hitting time (or first hit time) is the first time at which a given process "hits" a given subset of the state space.
